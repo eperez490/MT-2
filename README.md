@@ -1,6 +1,6 @@
 <html>
 <title>Marksman Trucking</title>
-</head>
+
 <body>
 
 <h1>MARKSMAN TRUCKING </h1>
