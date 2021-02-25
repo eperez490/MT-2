@@ -1,5 +1,4 @@
 <html>
-<head>
 <title>Marksman Trucking</title>
 </head>
 <body>
