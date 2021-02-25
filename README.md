@@ -5,7 +5,7 @@
 <body>
 
 <h1>MARKSMAN TRUCKING </h1>
-<p>.</p>
+<p>CONSISTENCY, ACCURACY, RELIABLILITY .</p>
 
 </body>
 </html>
